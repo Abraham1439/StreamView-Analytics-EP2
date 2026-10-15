@@ -1,0 +1,20 @@
+{
+  "fuentes": [
+    {
+      "archivo": "data/raw/netflix_movies_detailed_up_to_2025.csv",
+      "filas": 16000,
+      "columnas": 18,
+      "sha256": "5439bcc05ccc4c170265a88e115891adecef64a330060dbd55266ac7fea14613",
+      "procedencia": "Archivo original proporcionado para el caso académico StreamView Analytics"
+    },
+    {
+      "archivo": "data/raw/netflix_tv_shows_detailed_up_to_2025.csv",
+      "filas": 16000,
+      "columnas": 16,
+      "sha256": "16156fb21d0139a396b3a72cd58d66f86d272f7607df9281c2abfe68f59f80d7",
+      "procedencia": "Archivo original proporcionado para el caso académico StreamView Analytics"
+    }
+  ],
+  "periodo_estreno": "2010-2025",
+  "licencia_datos": "No se adjuntó licencia de redistribución de los datasets; no se presume una licencia abierta."
+}
